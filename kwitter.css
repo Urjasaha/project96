@@ -1,0 +1,52 @@
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+body
+{
+background-image: linear-gradient(to right top, #d2aef0, #b525d9, #9118c1, #770aaa, #710094);
+}
+
+.header
+{
+	color: white;
+	font-family: 'Raleway', sans-serif;
+    font-family: 'Stint Ultra Condensed', cursive;
+	font-size: 45px;
+	letter-spacing: 10px;
+	margin-top: 80px;
+}
+.header img
+{
+	width: 80px;
+	margin-left: -15px;
+}
+
+#join 
+{
+	font-family: 'Stint Ultra Condensed', cursive;
+}
+
+.login_div
+{
+	background: rgba(202, 169, 198, 0.8);
+	float:unset;
+	border-radius: 28px;
+}
+
+.logo
+{
+	width: 80px;margin-top: 30px;
+	border-radius: 40px;
+}
+
+#login_button
+{
+	width: 80%;
+	border-radius: 15px;
+	background-color: #c185d3;
+	border-style:dotted;
+	border-color: beige;
+}
